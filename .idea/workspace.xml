@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efb29849-4c75-48b1-a6dc-f312542887e0" name="Default Changelist" comment="新建项目">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="efb29849-4c75-48b1-a6dc-f312542887e0" name="Default Changelist" comment="新建项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +15,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -70,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599567649355</updated>
       <workItem from="1599567652385" duration="3825000" />
-      <workItem from="1599694783979" duration="765000" />
+      <workItem from="1599694783979" duration="1127000" />
     </task>
     <task id="LOCAL-00001" summary="新建项目">
       <created>1599694972599</created>
@@ -79,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599694972599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新建项目">
+      <created>1599695579675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599695579675</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,10 +149,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="781" y="164" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1599567710713" />
-    <state x="872" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599695089348">
+    <state x="872" y="252" key="Vcs.Push.Dialog.v2" timestamp="1599695725852">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="872" y="252" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1599695089348" />
+    <state x="872" y="252" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1599695725852" />
     <state x="816" y="293" key="git4idea.merge.GitPullDialog" timestamp="1599695548604">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
